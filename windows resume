@@ -1,8 +1,64 @@
-=> building a new server as per given requirement
-=>Hardware and software configuration and management
-=>Installation and maintance of tomcat,apache
-=> webhosting and dns management
-=>proficient with installtion like ms office applications and configuration of outlook and their trouble shoot.
-=>owned &resolved the tickets in both windows and unix environment.
-=>Installing macfee , upddating the versions.
-=>
+widows system Administration:
+
+1. building a new server as per given requirement
+2.Hardware and software configuration and management
+3.Installation and maintance of tomcat,apache
+4. webhosting and dns management
+5.Proficient with installtion like ms office applications and configuration of outlook and their trouble shoot.
+6.owned &resolved the tickets in both windows and unix environment.
+7.Installing macfee , updating the versions.
+8.creating FTP and proficient in desktop hardening without compilience.
+
+Linux administration:
+1.Disk Management
+2.Swap configuration
+3.Job scheduling
+4.Networking
+5.NFS,FTP,DNS,DHCP ,SAMBA SERVER CONFIGURATIONS
+6.SSH, Password less authentication
+7.Process management
+8.Trouble shooting problems on Linux
+9.Working on Ubuntu platform
+10.Installation lamp stack ,Vesta control panel  ,webmin in ec2 Linux
+11.Domain registration
+12.Email server setups in go daddy,  AWS
+13. By using them applications and websites with low-cost.
+14.Raid level.
+
+AWS Cloud administration and Devops.
+
+1.Having knowledge on GITHUB resporitoy .
+2. Basic knowledge on Docker and jenkins.
+3.Familiar with Linux servers like ubuntu,centos,Ami SERVER.
+4.Design highly available, cost effective and fault tolerant systems using multiple EC2 instances, Auto Scaling, Elastic Load Balance and AMIs.
+5.Utilize EBS to store persistent data and mitigate failure by using snapshots.
+6.Design roles and groups for users and resources using AWS Identity Access Management (IAM)
+8.Provide highly durable and available data by using S3 data store, versioning, lifecycle policies, and Create AMIs for mission critical production servers for backup.Utilize Amazon Glacier for archiving data.
+9.Manage network security using Security Groups, VPC, and IAM.
+10.Use Amazon RDS to manage, create snapshots, and automate backup of database.	Creating dynamo db, Relational databases and having experience in connecting them locally by using 3rd party tools.
+11.Good understanding of ELB, general networking principles, firewalls, routing technologies and DNS (Route53)12.Utilize Cloud Watch to monitor resources such as EC2, CPU memory, Amazon RDS DB services, Dynamo DB tables, EBS volumes; to set alarms for notification or automated actions; and to monitor logs for a better understanding and operation of the system.Having knowledge on SES, SNS, application services and workmail
+12.Strong knowledge on encrypting the data and storing that data into s3 bucket.
+
+
+PROJECT #1
+Applications which I have created servers and maintaining them with high security.
+Application Names:
+Namdhari, Gettzy, Yespree, HRMS, Valet Parking
+	
+Responsibilities:  
+Design walk through with the Clients, understanding the application. Also helped them in setting up the workspace and its usage of other tools. Creating instances in EC2 and tagging the volumes are using Cloud formation templates and associating EIP to it, creating ELB, Route53, Auto scaling. Creating VPC, Subnets, IGW, and Route table. Worked on networking part for getting access to instances, setting up security groups etc. Storing and Retrieving Amazon S3 objects through console as well as s3cmd command line. Taking regular backup by taking AMI, snapshots using AWS CLI.
+
+
+
+
+PROJECT #2
+Mexus,sobhadevelopers.
+	
+Responsibilities: 
+Involved in migration of application to cloud. Design walk through with the Clients. Creating the S3 buckets, objects, giving the suitable permissions. Creating VPC, subnets and EC2 instances. Setting up the LAMP stacks and FTP. Creating high variable environment and there maintenance.
+
+
+
+
+
+
